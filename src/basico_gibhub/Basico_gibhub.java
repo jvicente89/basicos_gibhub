@@ -19,6 +19,7 @@ public class Basico_gibhub {
         
         System.out.println("Hola mundo");
         //Prueba trabajo
+        // Muestra con iconos
     }
     
 }
